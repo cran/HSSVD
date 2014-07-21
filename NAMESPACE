@@ -1,0 +1,3 @@
+importFrom(utils,head,tail,packageDescription)
+import("bcv")
+export(low_rank)
