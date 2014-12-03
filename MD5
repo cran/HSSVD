@@ -1,4 +1,4 @@
-70cc198b87812e48ebda9c44b50b1c23 *DESCRIPTION
+534e2be4a965d694f731cbb351109e76 *DESCRIPTION
 eef29d71aa6ec7e356bf908ff877e06f *NAMESPACE
 44f0c9734fc86764d58b6354da700707 *R/HSSVD-internal.R
 b0bd231f2635a98f0d2a04ea6972f19a *R/Huber.R
@@ -16,7 +16,7 @@ d5df1a104ce87dd26e6da007879d99fa *R/select.indices.R
 336214315d1e52c370e46d62513781f7 *R/soft.thresh.R
 d33775101fdf8d6a1eca44c8ee5878b5 *R/soft.thresh.scalar.R
 ac74a38d8340d93f5fbf53650cf7bf50 *R/subsp.dist.orth.R
-09de60c9fb49d6677d1c8cfec11cf8ab *data/Methylation.rda
+305ffebb3707b8f74b3d0a010b31cbce *data/Methylation.rda
 bff4b6cfd1170123717e3017f1cc5275 *data/datalist
 2356155c49150afca4fe721f5a0423be *man/HSSVD-package.Rd
 dd241310bfedaa84ad5be2d2bab85b39 *man/Methylation.Rd
